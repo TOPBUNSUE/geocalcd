@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"PerryPlatypus"
+	],
+	"copyright": "Copyright © 2023, PerryPlatypus",
+	"description": "A lightweight Dlang-based calculator for computing areas and perimeters for simple squares",
+	"license": "proprietary",
+	"name": "geocalcd",
+	"targetType": "staticLibrary"
+}
